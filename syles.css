@@ -1,0 +1,26 @@
+body{
+    background-color:  #f4eee8;
+  }
+  
+hr{
+    border-style: none;
+    border-style: dotted none none none;
+    border-color: #3ec1d3;
+    border-width: 4px;
+    width: 10%;
+  }
+
+h1 {
+    color: #325288;
+}
+h3{
+    color: #114e60;
+}
+.education {
+    color:red;
+}
+
+#work {
+    color: blue;
+}
+
